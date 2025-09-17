@@ -1,4 +1,4 @@
-Exercicios Hashtag
+Jornada Python
 -
 
 Exercicios realizados ao longo do Intensivão Hashtag
