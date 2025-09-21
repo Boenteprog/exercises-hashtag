@@ -1,4 +1,4 @@
-Jornada Python da Hashtag
+Jornada Python da [Hashtag](https://www.youtube.com/@HashtagProgramacao)
 -
 
 Exercicios realizados ao longo do Intensivão Hashtag
@@ -7,3 +7,4 @@ Exercicios realizados ao longo do Intensivão Hashtag
 - Gerenciamento de planilha de dados
 - Machine Learning with datas
 - Criação de sites e chatbots com IA
+
